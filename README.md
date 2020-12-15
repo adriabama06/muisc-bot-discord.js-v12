@@ -3,6 +3,8 @@
 # Echo por:
 https://www.youtube.com/channel/UCNyyPElQrYQYNEIcLHSMuyw?view_as=subscriber | adriabama06
 
+con : https://discord.js.org/
+
 # Como usar
 Se necesita NODEJS 12.18.4 LTS
 
@@ -24,8 +26,8 @@ Una vez instalado:
 
 # Si no funciona la musica prueba:
 
-1 -> Elimina node_modules, luego escribe `npm install`
+1 -> Elimina `node_modules`, luego escribe `npm install`
 
-2 -> Sera que ytdl-core no funciona asi que tendras que esperara a que vuelva a funcionar
+2 -> Sera que `ytdl-core` no funciona asi que tendras que esperara a que vuelva a funcionar
 
 3 -> Tendras una mala internet **F**
