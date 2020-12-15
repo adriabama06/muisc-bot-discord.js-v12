@@ -21,3 +21,11 @@ Una vez instalado:
 5 -> Ejecutas `node .` en la consola
 
 6 -> Disfruta del bot :D
+
+# Si no funciona la musica prueba:
+
+1 -> Elimina node_modules, luego escribe `npm install`
+
+2 -> Sera que ytdl-core no funciona asi que tendras que esperara a que vuelva a funcionar
+
+3 -> Tendras una mala internet **F**
