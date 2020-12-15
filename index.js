@@ -1,6 +1,6 @@
 const Discord = require("discord.js");
 const ytdl = require('ytdl-core');
-const { token } = require('./config.json');
+const { token, prefix } = require('./config.json');
 const ffmpeg = require("ffmpeg-static");
 
 
@@ -17,8 +17,6 @@ setInterval(() => {
     }
     client.user.setActivity(` !play, sonando: ${stateofmusic}`);
 }, 5000)
-
-const prefix = '!'
 
 client.on("ready", () => {
    console.log(`
