@@ -1,6 +1,7 @@
 const Discord = require("discord.js");
 const ytdl = require('ytdl-core');
-const { token, prefix } = require('./config.json');
+const prefix = require('./config.json').prefix;
+const token = require('./config.json').token;
 const ffmpeg = require("ffmpeg-static");
 
 
