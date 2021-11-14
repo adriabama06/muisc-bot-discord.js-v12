@@ -1,3 +1,6 @@
+# Nuevo bot con multi idioma multi queue y mucho mejor, ademas en la v13 de discord.js:
+https://github.com/adriabama06/no-soy-un-music-bot
+
 # Muisc bot discord.js v12, bot de musica con discord.js v12
 
 # Echo por:
